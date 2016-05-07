@@ -1,0 +1,14 @@
+{
+ "name": "Drive Forms",
+ "version": "1",
+"description" : "Drive Forms takes templates from your Google Drive and creates a web form. After filling out the form, the App automatically fills in the template and  finished copy is sent to an email address.",
+ "container" : "GOOGLE_DRIVE",
+ "api_console_project_id" : "408195882134.apps.googleusercontent.com",
+ "icons": { "24": "DriveFormsLogo_32.png", "128": "DriveFormsLogo_128.png" },
+ "app": {
+   "urls": ["https://docs.google.com/a/macros/simpleappssolutions.com/exec?service=AKfycbxe0lmJTiRBdYPOZ0Wi4zLQyA9LLQ2EYkvlIxcWqQ"],
+   "launch": {
+     "web_url": "https://docs.google.com/a/macros/simpleappssolutions.com/exec?service=AKfycbxe0lmJTiRBdYPOZ0Wi4zLQyA9LLQ2EYkvlIxcWqQ"
+   }
+ }
+}
